@@ -1,4 +1,6 @@
 # capstone3
+
+<h1>readme 수요일까지 수정하기</h1>
 tribill app
 
 dscrip : 공유 여행 가계부 앱 어플리케이션
