@@ -19,7 +19,7 @@ backend : 이승재
   design-tool : figma
   <br>
   
-figma link:
+Figma link:
 <br>
 상세설계서 notion link
 <br>
